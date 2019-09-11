@@ -1,3 +1,4 @@
+#CREATED BY JESPER GUNNARSSON AND LUDVIG HASSBRING
 import regex as re
 import sys
 import pickle
