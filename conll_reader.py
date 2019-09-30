@@ -2,7 +2,7 @@
 CoNLL 2000 file reader
 """
 __author__ = "Pierre Nugues"
-
+#EDITED BY JESPER GUNNARSSON AND LUDVIG HASSBRING
 
 def read_sentences(file):
     """
