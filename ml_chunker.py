@@ -2,7 +2,7 @@
 Machine learning chunker for CoNLL 2000
 """
 __author__ = "Pierre Nugues"
-
+#EDITED BY JESPER GUNNARSSON AND LUDVIG HASSBRING
 import time
 import conll_reader
 from sklearn.feature_extraction import DictVectorizer
