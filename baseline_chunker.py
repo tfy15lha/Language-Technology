@@ -4,7 +4,7 @@ Baseline chunker for CoNLL 2000
 __author__ = "Pierre Nugues"
 
 import conll_reader
-
+#EDITED BY LUDVIG HASBRING AND JESPER GUNNARSSON
 
 def count_pos(corpus):
     """
