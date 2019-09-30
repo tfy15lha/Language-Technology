@@ -5,7 +5,7 @@ __author__ = "Pierre Nugues"
 
 import os
 
-
+#EDITED BY JESPER GUNNARSSON AND LUDVIG HASSBRING
 def get_files(dir, suffix):
     """
     Returns all the files in a folder ending with suffix
